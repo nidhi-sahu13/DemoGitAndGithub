@@ -1,0 +1,14 @@
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\bin\Debug\net8.0\DemoGitAndGithub.exe
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\bin\Debug\net8.0\DemoGitAndGithub.deps.json
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\bin\Debug\net8.0\DemoGitAndGithub.runtimeconfig.json
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\bin\Debug\net8.0\DemoGitAndGithub.dll
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\bin\Debug\net8.0\DemoGitAndGithub.pdb
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\DemoGitAndGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\DemoGitAndGithub.AssemblyInfoInputs.cache
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\DemoGitAndGithub.AssemblyInfo.cs
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\DemoGitAndGithub.csproj.CoreCompileInputs.cache
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\DemoGitAndGithub.dll
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\refint\DemoGitAndGithub.dll
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\DemoGitAndGithub.pdb
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\DemoGitAndGithub.genruntimeconfig.cache
+C:\Users\ibc\Desktop\DemoGithAndGithub\DemoGitAndGithub\DemoGitAndGithub\obj\Debug\net8.0\ref\DemoGitAndGithub.dll
